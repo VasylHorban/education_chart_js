@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.graph{
+    width: 500px;
+    height: 200px;
+    margin: 3rem;
+}
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
